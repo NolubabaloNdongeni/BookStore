@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="not_registered">not_registered</string>
+    <string name="register">register</string>
+    <string name="Confirm_password">Confirm_password</string>
+    <string name="Already_Registered">Already_Registered</string>
+    <string name="already_registered">already_registered</string>
+    <string name="title">title</string>
+    <string name="author">author</string>
+    <string name="genre">genre</string>
+    <string name="edition">edition</string>
+    <string name="isbn">isbn</string>
+    <string name="add_data">add_data</string>
+    <string name="add">add</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="view">view</string>
+    <string name="id">id</string>
+</resources>
